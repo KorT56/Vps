@@ -1,0 +1,15 @@
+@import url(./resset.css);
+
+body{
+   position: relative;
+   padding: 5%;
+}
+
+
+.content {
+    border: 2px solid rgb(56, 53, 53);
+    border-radius: 2em;
+    padding: 10%;
+}
+
+
